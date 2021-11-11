@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClassWork</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="course">Course</string>
+    <string name="department">Department</string>
+    <string name="id">ID</string>
+    <string name="update">Update</string>
+    <string name="delete">DELETE</string>
+
+    <string name="retrieve">Retrieve</string>
+</resources>
